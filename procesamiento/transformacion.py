@@ -47,7 +47,7 @@ def filtrar_menores_titanic(almacen_datos: dict) -> None:
     """Elimina de TITANIC todos los pasajeros menores de 10 años."""
     df = almacen_datos["TITANIC"]
     antes = len(df)
-    df_filtrado = df[df["edad_anios"] >= 10].reset_index(drop=True)
+    df_filtrado = df[df["edad_anios"].isna() | (df["edad_anios"] >= 10)].reset_index(drop=True)
     almacen_datos["TITANIC"] = df_filtrado
     eliminados = antes - len(df_filtrado)
     print(f"  [OK] TITANIC filtrado: {eliminados} menores de 10 años eliminados "
