@@ -1,0 +1,151 @@
+fecha,ciudad,temperatura_C,humedad_pct,viento_kmh,precipitacion_mm,condicion_clima
+2024-01-01,Santiago,13.2,87.5,21.7,0.0,Nublado
+2024-01-02,Santiago,11.1,47.8,10.9,0.0,Soleado
+2024-01-03,Santiago,15.5,75.4,10.3,0.0,Nublado
+2024-01-04,Santiago,17.8,50.6,12.9,0.0,Soleado
+2024-01-05,Santiago,12.5,66.2,16.9,0.0,Parcialmente nublado
+2024-01-06,Santiago,15.6,47.0,14.7,0.0,Soleado
+2024-01-07,Santiago,14.1,79.3,13.2,0.0,Nublado
+2024-01-08,Santiago,15.4,42.3,19.7,0.0,Soleado
+2024-01-09,Santiago,10.2,87.4,25.5,0.0,Nublado
+2024-01-10,Santiago,12.5,44.9,20.9,0.0,Soleado
+2024-01-11,Santiago,10.7,64.8,10.6,0.0,Parcialmente nublado
+2024-01-12,Santiago,12.1,73.1,15.0,0.0,Parcialmente nublado
+2024-01-13,Santiago,15.0,49.2,25.5,0.0,Soleado
+2024-01-14,Santiago,18.9,84.7,19.6,0.0,Nublado
+2024-01-15,Santiago,10.4,49.8,10.7,0.0,Soleado
+2024-01-16,Santiago,13.4,53.6,23.3,0.0,Soleado
+2024-01-17,Santiago,12.3,67.1,12.3,0.0,Parcialmente nublado
+2024-01-18,Santiago,10.2,89.3,22.4,0.0,Nublado
+2024-01-19,Santiago,9.6,80.8,21.3,0.0,Nublado
+2024-01-20,Santiago,17.2,43.7,15.7,0.0,Soleado
+2024-01-21,Santiago,18.1,71.2,15.3,6.2,Lluvioso
+2024-01-22,Santiago,12.8,76.5,20.2,0.0,Nublado
+2024-01-23,Santiago,14.2,46.0,21.4,0.0,Soleado
+2024-01-24,Santiago,15.1,78.5,17.9,0.0,Nublado
+2024-01-25,Santiago,13.8,41.3,11.7,12.7,Lluvioso
+2024-01-26,Santiago,12.6,65.4,24.5,0.0,Parcialmente nublado
+2024-01-27,Santiago,13.6,77.8,13.7,5.8,Lluvioso
+2024-01-28,Santiago,11.1,86.5,22.9,0.0,Nublado
+2024-01-29,Santiago,18.2,80.2,13.0,0.0,Nublado
+2024-01-30,Santiago,14.9,80.4,24.3,0.0,Nublado
+2024-01-01,Valparaíso,11.3,51.4,23.8,0.0,Soleado
+2024-01-02,Valparaíso,18.8,40.3,25.2,0.0,Soleado
+2024-01-03,Valparaíso,12.4,46.0,22.4,0.0,Soleado
+2024-01-04,Valparaíso,13.4,65.9,28.2,0.0,Parcialmente nublado
+2024-01-05,Valparaíso,19.9,88.1,21.0,0.0,Nublado
+2024-01-06,Valparaíso,13.2,54.2,17.6,0.0,Soleado
+2024-01-07,Valparaíso,15.2,42.6,21.5,0.0,Soleado
+2024-01-08,Valparaíso,12.6,47.2,24.8,0.0,Soleado
+2024-01-09,Valparaíso,12.6,73.6,29.2,0.0,Parcialmente nublado
+2024-01-10,Valparaíso,17.5,58.4,27.1,0.0,Parcialmente nublado
+2024-01-11,Valparaíso,15.6,44.5,30.4,0.0,Soleado
+2024-01-12,Valparaíso,12.1,42.0,26.5,0.0,Soleado
+2024-01-13,Valparaíso,10.4,65.6,20.6,0.0,Parcialmente nublado
+2024-01-14,Valparaíso,11.9,74.5,23.2,0.0,Parcialmente nublado
+2024-01-15,Valparaíso,11.6,57.1,18.8,0.0,Parcialmente nublado
+2024-01-16,Valparaíso,19.0,52.9,27.6,0.0,Soleado
+2024-01-17,Valparaíso,15.8,66.5,20.9,17.9,Lluvioso
+2024-01-18,Valparaíso,19.2,71.7,22.4,0.0,Parcialmente nublado
+2024-01-19,Valparaíso,17.5,84.9,31.2,0.0,Nublado
+2024-01-20,Valparaíso,16.6,44.2,19.6,0.0,Soleado
+2024-01-21,Valparaíso,16.3,40.5,18.6,0.0,Soleado
+2024-01-22,Valparaíso,10.3,48.0,25.8,0.0,Soleado
+2024-01-23,Valparaíso,16.7,51.2,28.4,0.0,Soleado
+2024-01-24,Valparaíso,13.5,77.3,27.4,0.0,Nublado
+2024-01-25,Valparaíso,16.8,68.4,18.5,0.0,Parcialmente nublado
+2024-01-26,Valparaíso,12.9,52.2,32.6,0.0,Soleado
+2024-01-27,Valparaíso,19.1,71.6,29.7,0.0,Parcialmente nublado
+2024-01-28,Valparaíso,16.0,64.6,20.1,0.0,Parcialmente nublado
+2024-01-29,Valparaíso,13.0,41.2,27.3,0.0,Soleado
+2024-01-30,Valparaíso,19.6,87.7,31.6,0.0,Nublado
+2024-01-01,Concepción,8.0,86.4,18.9,0.0,Nublado
+2024-01-02,Concepción,17.4,82.7,16.7,0.0,Nublado
+2024-01-03,Concepción,16.3,55.8,14.7,0.0,Parcialmente nublado
+2024-01-04,Concepción,17.2,74.8,21.1,12.3,Lluvioso
+2024-01-05,Concepción,17.7,47.0,20.3,0.0,Soleado
+2024-01-06,Concepción,15.2,74.9,23.2,0.0,Parcialmente nublado
+2024-01-07,Concepción,10.7,80.5,25.0,0.0,Nublado
+2024-01-08,Concepción,16.9,65.6,20.0,0.0,Parcialmente nublado
+2024-01-09,Concepción,14.3,75.1,24.7,0.0,Nublado
+2024-01-10,Concepción,11.2,58.8,13.5,0.0,Parcialmente nublado
+2024-01-11,Concepción,8.2,63.3,20.7,11.8,Lluvioso
+2024-01-12,Concepción,8.1,41.9,25.2,0.0,Soleado
+2024-01-13,Concepción,9.1,66.1,24.3,12.5,Lluvioso
+2024-01-14,Concepción,8.7,42.6,20.5,0.0,Soleado
+2024-01-15,Concepción,14.2,76.3,27.6,0.0,Nublado
+2024-01-16,Concepción,11.0,79.8,16.3,0.0,Nublado
+2024-01-17,Concepción,8.6,41.3,27.4,0.0,Soleado
+2024-01-18,Concepción,14.8,60.4,14.8,5.0,Parcialmente nublado
+2024-01-19,Concepción,13.3,75.7,22.6,19.1,Lluvioso
+2024-01-20,Concepción,15.2,67.7,21.8,0.0,Parcialmente nublado
+2024-01-21,Concepción,10.3,57.8,24.1,2.3,Parcialmente nublado
+2024-01-22,Concepción,8.3,42.0,25.7,0.0,Soleado
+2024-01-23,Concepción,12.5,44.9,19.9,0.0,Soleado
+2024-01-24,Concepción,9.5,61.7,18.4,0.0,Parcialmente nublado
+2024-01-25,Concepción,14.2,42.3,18.0,0.0,Soleado
+2024-01-26,Concepción,12.8,82.8,22.5,1.4,Nublado
+2024-01-27,Concepción,14.2,41.3,21.4,0.0,Soleado
+2024-01-28,Concepción,13.6,59.4,22.3,0.0,Parcialmente nublado
+2024-01-29,Concepción,13.3,87.1,18.2,0.0,Nublado
+2024-01-30,Concepción,16.9,49.8,13.1,0.4,Soleado
+2024-01-01,Antofagasta,13.5,74.2,8.1,0.0,Parcialmente nublado
+2024-01-02,Antofagasta,21.0,41.2,20.0,0.0,Soleado
+2024-01-03,Antofagasta,13.8,74.8,17.1,0.0,Parcialmente nublado
+2024-01-04,Antofagasta,20.0,80.2,11.5,0.0,Nublado
+2024-01-05,Antofagasta,20.1,80.3,22.8,0.0,Nublado
+2024-01-06,Antofagasta,16.3,78.8,12.5,0.0,Nublado
+2024-01-07,Antofagasta,21.2,61.4,19.0,0.0,Parcialmente nublado
+2024-01-08,Antofagasta,13.6,85.1,15.1,0.0,Nublado
+2024-01-09,Antofagasta,15.8,84.8,13.2,18.1,Lluvioso
+2024-01-10,Antofagasta,13.5,56.0,22.2,0.0,Parcialmente nublado
+2024-01-11,Antofagasta,18.3,71.6,14.2,0.0,Parcialmente nublado
+2024-01-12,Antofagasta,15.9,73.6,19.0,0.0,Parcialmente nublado
+2024-01-13,Antofagasta,20.5,44.6,14.9,0.0,Soleado
+2024-01-14,Antofagasta,18.1,62.1,21.2,0.0,Parcialmente nublado
+2024-01-15,Antofagasta,13.8,47.1,19.2,0.0,Soleado
+2024-01-16,Antofagasta,13.6,44.2,18.2,0.0,Soleado
+2024-01-17,Antofagasta,20.8,75.3,8.3,0.0,Nublado
+2024-01-18,Antofagasta,22.5,58.7,12.9,0.0,Parcialmente nublado
+2024-01-19,Antofagasta,22.1,89.3,19.1,0.0,Nublado
+2024-01-20,Antofagasta,13.4,78.9,15.9,0.0,Nublado
+2024-01-21,Antofagasta,21.7,45.6,14.9,9.4,Lluvioso
+2024-01-22,Antofagasta,13.2,45.9,8.9,0.0,Soleado
+2024-01-23,Antofagasta,20.1,69.2,22.4,0.0,Parcialmente nublado
+2024-01-24,Antofagasta,15.5,83.4,10.6,0.0,Nublado
+2024-01-25,Antofagasta,12.7,88.5,7.7,0.0,Nublado
+2024-01-26,Antofagasta,17.9,89.6,8.2,0.0,Nublado
+2024-01-27,Antofagasta,22.3,66.2,17.1,0.0,Parcialmente nublado
+2024-01-28,Antofagasta,17.1,71.4,16.3,0.0,Parcialmente nublado
+2024-01-29,Antofagasta,13.1,54.0,22.2,0.0,Soleado
+2024-01-30,Antofagasta,17.2,71.0,11.4,0.0,Parcialmente nublado
+2024-01-01,Temuco,9.9,57.7,23.3,19.5,Lluvioso
+2024-01-02,Temuco,15.2,74.9,22.6,16.3,Lluvioso
+2024-01-03,Temuco,12.1,48.1,28.6,0.0,Soleado
+2024-01-04,Temuco,14.8,76.3,23.8,18.7,Lluvioso
+2024-01-05,Temuco,14.0,42.3,14.4,16.2,Lluvioso
+2024-01-06,Temuco,15.2,47.5,23.5,19.4,Lluvioso
+2024-01-07,Temuco,13.7,81.9,21.5,5.5,Lluvioso
+2024-01-08,Temuco,5.9,83.2,27.0,0.0,Nublado
+2024-01-09,Temuco,15.3,67.8,26.3,0.0,Parcialmente nublado
+2024-01-10,Temuco,13.8,52.4,21.2,19.1,Lluvioso
+2024-01-11,Temuco,11.4,51.4,24.7,0.0,Soleado
+2024-01-12,Temuco,8.9,45.7,24.7,0.0,Soleado
+2024-01-13,Temuco,13.0,66.0,27.6,0.0,Parcialmente nublado
+2024-01-14,Temuco,10.9,83.8,20.5,0.6,Nublado
+2024-01-15,Temuco,12.9,71.0,25.3,2.7,Parcialmente nublado
+2024-01-16,Temuco,5.4,57.5,23.4,8.7,Lluvioso
+2024-01-17,Temuco,14.3,57.4,22.2,0.0,Parcialmente nublado
+2024-01-18,Temuco,9.3,71.1,27.8,0.0,Parcialmente nublado
+2024-01-19,Temuco,6.8,86.3,21.9,9.2,Lluvioso
+2024-01-20,Temuco,15.1,64.6,19.3,0.0,Parcialmente nublado
+2024-01-21,Temuco,7.7,43.8,16.1,3.0,Soleado
+2024-01-22,Temuco,6.7,72.0,16.9,17.9,Lluvioso
+2024-01-23,Temuco,10.0,73.4,16.8,0.8,Parcialmente nublado
+2024-01-24,Temuco,7.0,53.9,16.8,2.4,Soleado
+2024-01-25,Temuco,9.9,50.3,19.8,0.0,Soleado
+2024-01-26,Temuco,12.2,42.0,26.8,0.0,Soleado
+2024-01-27,Temuco,6.1,83.7,28.7,5.5,Lluvioso
+2024-01-28,Temuco,13.4,77.4,17.0,7.4,Lluvioso
+2024-01-29,Temuco,10.1,70.9,19.9,0.0,Parcialmente nublado
+2024-01-30,Temuco,12.8,41.8,18.0,0.0,Soleado

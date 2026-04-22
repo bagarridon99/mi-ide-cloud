@@ -1,0 +1,16 @@
+titulo,autor,año_publicacion,genero_literario,editorial,num_paginas,idioma,pais_origen,calificacion_goodreads,UniqueKey
+Cien años de soledad,Gabriel García Márquez,1967,Novela,Sudamericana,432,Español,Colombia,4.1,e7bf66ba749b
+El Quijote,Miguel de Cervantes,1605,Novela,Francisco de Robles,1345,Español,España,3.9,56860f337e4f
+1984,George Orwell,1949,Distopía,Secker & Warburg,328,Inglés,Reino Unido,4.7,5a44f44ded77
+El Principito,Antoine de Saint-Exupéry,1943,Fábula,Reynal & Hitchcock,96,Francés,Francia,4.3,1704107817c0
+Rayuela,Julio Cortázar,1963,Novela,Sudamericana,635,Español,Argentina,4.1,48747f464a94
+La casa de los espíritus,Isabel Allende,1982,Realismo mágico,Plaza & Janés,434,Español,Chile,4.1,fcfc91e9e3a0
+Ficciones,Jorge Luis Borges,1944,Cuentos,Sur,224,Español,Argentina,4.5,965fd2fef845
+Pedro Páramo,Juan Rulfo,1955,Novela,FCE,124,Español,México,4.0,ab0e9d46fb19
+Brave New World,Aldous Huxley,1932,Distopía,Chatto & Windus,311,Inglés,Reino Unido,4.1,c115f0230163
+Los detectives salvajes,Roberto Bolaño,1998,Novela,Anagrama,609,Español,Chile,4.0,3b6b461702df
+El amor en los tiempos del cólera,Gabriel García Márquez,1985,Novela,Oveja Negra,468,Español,Colombia,4.3,89b49b667139
+Fahrenheit 451,Ray Bradbury,1953,Distopía,Ballantine Books,158,Inglés,EE.UU.,4.6,71f0a9c41ac0
+La sombra del viento,Carlos Ruiz Zafón,2001,Misterio,Planeta,544,Español,España,4.2,6c9b480d1fea
+El túnel,Ernesto Sabato,1948,Novela,Sur,124,Español,Argentina,3.9,f202bf37822f
+Sapiens,Yuval Noah Harari,2011,No ficción,Kinneret,443,Hebreo,Israel,4.4,dda578779b35
